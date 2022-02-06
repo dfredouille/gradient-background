@@ -1,14 +1,11 @@
-html {
-    height: 100%;
-}
-
 body {
 	font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
     text-align: center;
     text-transform: uppercase;
     letter-spacing: .5em;
     top: 15%;
-    height: 100%;
+	background: linear-gradient(to right, #00ff00 , #ff0000); /* Standard syntax */
 }
 
 h1 {
@@ -28,4 +25,3 @@ h3 {
     letter-spacing: 0.01em;
 
 }
-
